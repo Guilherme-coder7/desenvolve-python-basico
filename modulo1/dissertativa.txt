@@ -1,0 +1,7 @@
+O algoritmo do truque da tabuada do 9 funciona a partir da leitura de um número inteiro n, que representa o valor a ser multiplicado por 9.
+
+Primeiramente, o algoritmo lê o valor de entrada n. Em seguida, no processamento, calcula-se o primeiro dígito do resultado subtraindo 1 do valor de n, obtendo assim a dezena. Depois, calcula-se o segundo dígito subtraindo o valor de n de 10, obtendo a unidade.
+
+Após isso, o algoritmo multiplica a dezena por 10 e soma com a unidade, gerando o resultado final da multiplicação de 9 por n.
+
+Por fim, o algoritmo imprime o resultado final da operação 9 x n.
